@@ -1,0 +1,14 @@
+{
+  "name": "paperclip-router-ppoe",
+  "version": "1.0.0",
+  "private": false,
+  "author": "simon tadros <simonstadros@gmail.com> (http://www.lightningtalks.me)",
+  "engines": {
+    "node": "0.10.x",
+    "npm":  "1.2.x"
+  },
+  "dependencies": {
+    "ansi-styles": "*",
+    "moment": "*"
+  }
+}
