@@ -5,7 +5,8 @@
   "author": "simon tadros <simonstadros@gmail.com> (http://www.lightningtalks.me)",
   "engines": {
     "node": "0.10.x",
-    "npm":  "1.2.x"
+    "npm":  "1.2.x",
+    "net-ping": "1.1.9"
   },
   "dependencies": {
     "ansi-styles": "*",
